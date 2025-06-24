@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 number = int(input("Enter a number less than 25: "))
 
 if number > 25:
