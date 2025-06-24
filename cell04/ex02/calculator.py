@@ -7,5 +7,5 @@ print("Thank you!")
 
 print(f" {input1} + {input2} = {input1+input2}")
 print(f" {input1} - {input2} = {input1-input2}")
-print(f" {input1} / {input2} = {input1/input2}")
+print(f" {input1} / {input2} = {int(input1/input2)}")
 print(f" {input1} * {input2} = {input1*input2}")
