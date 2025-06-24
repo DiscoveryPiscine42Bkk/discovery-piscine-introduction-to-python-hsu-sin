@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 input1 = int(input("Give me the first number: "))
 input2 = int(input("Give me the second number: "))
 

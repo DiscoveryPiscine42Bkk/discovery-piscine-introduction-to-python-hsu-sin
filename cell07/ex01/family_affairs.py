@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 def find_the_redheads(dict):
     return list(filter(lambda name: dict[name]=='red', dict.keys()))
 

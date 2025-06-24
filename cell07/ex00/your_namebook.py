@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 def array_of_names(namelist):
     arr_names = []
     for key, val in namelist.items():
