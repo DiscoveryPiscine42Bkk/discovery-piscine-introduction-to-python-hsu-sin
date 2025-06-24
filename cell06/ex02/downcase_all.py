@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 import sys
 
 def downcase_all(text):
